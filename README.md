@@ -14,7 +14,7 @@ I am a cybersecurity enthusiast passionate about **SIEM solutions** 🔎, with a
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/userupload/24380627/file/original-b5d50e9fd0cddf6d501238cdb90684f4.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJrPU-l4HABAkYqoohZKwvaS1r1qVTCAw8pb4ApfZu_8euan_IlFpCDeqSiYhNvJN5kMJE3xWF8y04Ytjmixhyp7WwMDJBwgqE26eOTJuhfBDAR-dBjxh-vJ8kRgM-Olit7cD2Sz4EEQ/w575-h236/Cyber+Security.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
