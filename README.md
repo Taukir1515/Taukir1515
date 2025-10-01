@@ -14,7 +14,7 @@ I am a cybersecurity enthusiast passionate about **SIEM solutions** 🔎, with a
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/userupload/24380627/file/original-b5d50e9fd0cddf6d501238cdb90684f4.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
