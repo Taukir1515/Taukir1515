@@ -1,12 +1,8 @@
 ## Hey 👋, I'm Taukir Rahman!
 
-
-
-
 ### 👋 About Me  
 
-I am a cybersecurity enthusiast passionate about **SIEM solutions** 🔎, with a main focus on **Wazuh integrations** 🔎. I also have experience in **penetration testing** 🕵️, **Linux server administration 🐧**, **web servers (Nginx 🌐)**, and **mail servers (Postfix 📧)**. I enjoy experimenting with open-source technologies 🔐, automating tasks ⚡, and continuously learning new ways to strengthen security systems.  
-
+I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a main focus on **Wazuh integrations**. I also have experience in penetration testing 🕵️, Linux server administration 🐧, web servers (Nginx 🌐), and mail servers (Postfix 📧). I enjoy experimenting with open-source technologies 🔐, automating tasks ⚡, and continuously learning new ways to strengthen security systems.
 
 ### 🤝 Connect with me
 
@@ -16,13 +12,12 @@ I am a cybersecurity enthusiast passionate about **SIEM solutions** 🔎, with a
 
 
 <!-- GIF -->
-
-<img align="right" alt="GIF" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="380" height="342"/>
-
+<img align="right" alt="GIF" 
+     src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" 
+     width="380" height="342"/>
 
 
 ### 🔨 Languages and Tools:
-
 
 <p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
 
@@ -104,15 +99,13 @@ I am a cybersecurity enthusiast passionate about **SIEM solutions** 🔎, with a
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 🔭 &nbsp; I’m currently working on **Wazuh Implementation for a complete SIEM solution**
+- 🌱 &nbsp; I’m currently learning Windows Powershell Core   
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Taukir1515)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://linkedin.com/in/taukirrahman)
+- 📝 &nbsp; Checkout my [resume]()
+- 🎬 &nbsp; I am just fan of Marvel Movies
 
 <br>
 
