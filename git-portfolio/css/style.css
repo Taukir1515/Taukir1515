@@ -1466,60 +1466,72 @@ body.offcanvas {
 
 
 
-/* =======================
-   Mobile Fixes (Contact Links)
-   ======================= */
-   @media (max-width: 768px) {
 
-    /* Ensure contact link items are clickable */
-    .colorlib-feature.colorlib-feature-sm {
-      display: flex !important;
-      align-items: center;
-      margin-bottom: 20px;
-      width: 100% !important;
-      pointer-events: auto !important;
-      z-index: 10;
-    }
-  
-    .colorlib-feature.colorlib-feature-sm .colorlib-feature-link {
-      display: flex !important;
-      width: 100% !important;
-      align-items: center;
-      pointer-events: auto !important;
-      text-decoration: none;
-    }
-  
-    .colorlib-feature.colorlib-feature-sm .colorlib-icon {
-      position: relative;
-      width: auto;
-      height: auto;
-      background: none;
-    }
-  
-    .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-      font-size: 32px;
-      color: #2c98f0;
-    }
-  
-    .colorlib-feature.colorlib-feature-sm .colorlib-text {
-      padding-left: 10px;
-      margin-top: 0;
-    }
-  
-    /* Ensure the contact form inputs are full width */
-    #contact .form-control {
-      width: 100%;
-    }
-  
-    /* Adjust spacing for small screens */
-    #contact .col-md-5,
-    #contact .col-md-7 {
-      width: 100%;
-      padding: 0 15px;
-    }
-  
-    #contact .col-md-7 {
-      margin-top: 20px;
-    }
+  /* Fix mobile clickability for Contact section */
+.colorlib-feature-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  z-index: 5;
+}
+
+.colorlib-feature.colorlib-feature-sm .colorlib-icon {
+  position: relative;
+  width: auto;
+  height: auto;
+  background: none;
+}
+
+.colorlib-feature.colorlib-feature-sm .colorlib-icon i {
+  font-size: 32px;
+  color: #2c98f0;
+}
+
+.colorlib-feature.colorlib-feature-sm .colorlib-text {
+  padding-left: 10px;
+  margin-top: 0;
+}
+
+/* Add spacing between items */
+.colorlib-feature.colorlib-feature-sm {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+
+
+@media (max-width: 768px) {
+  .colorlib-feature-link {
+    display: flex !important;
+    width: 100% !important;
+    pointer-events: auto !important;
+    text-decoration: none;
+    color: inherit;
   }
-  
+
+  .colorlib-feature {
+    pointer-events: auto !important;
+    margin-bottom: 15px; /* optional spacing */
+  }
+
+  .colorlib-feature .colorlib-icon i {
+    font-size: 28px; /* optional adjust for smaller screens */
+  }
+
+  .colorlib-feature .colorlib-text {
+    padding-left: 10px;
+  }
+}
+
+
+.colorlib-contact .colorlib-feature {
+  position: relative;
+  z-index: 1000; /* high enough to be on top */
+}
+.colorlib-contact .colorlib-feature a {
+  pointer-events: auto;
+  z-index: 1001; /* above any container */
+}
