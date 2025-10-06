@@ -1467,71 +1467,17 @@ body.offcanvas {
 
 
 
-  /* Fix mobile clickability for Contact section */
-.colorlib-feature-link {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  color: inherit;
-  position: relative;
-  z-index: 5;
-}
-
-.colorlib-feature.colorlib-feature-sm .colorlib-icon {
-  position: relative;
-  width: auto;
-  height: auto;
-  background: none;
-}
-
-.colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-  font-size: 32px;
-  color: #2c98f0;
-}
-
-.colorlib-feature.colorlib-feature-sm .colorlib-text {
-  padding-left: 10px;
-  margin-top: 0;
-}
-
-/* Add spacing between items */
-.colorlib-feature.colorlib-feature-sm {
-  display: flex;
-  align-items: center;
-  margin-bottom: 20px;
-}
-
-
-
+/* Make contact items fully clickable on mobile */
 @media (max-width: 768px) {
   .colorlib-feature-link {
     display: flex !important;
     width: 100% !important;
     pointer-events: auto !important;
-    text-decoration: none;
-    color: inherit;
   }
 
   .colorlib-feature {
     pointer-events: auto !important;
-    margin-bottom: 15px; /* optional spacing */
-  }
-
-  .colorlib-feature .colorlib-icon i {
-    font-size: 28px; /* optional adjust for smaller screens */
-  }
-
-  .colorlib-feature .colorlib-text {
-    padding-left: 10px;
   }
 }
 
-
-.colorlib-contact .colorlib-feature {
-  position: relative;
-  z-index: 1000; /* high enough to be on top */
-}
-.colorlib-contact .colorlib-feature a {
-  pointer-events: auto;
-  z-index: 1001; /* above any container */
-}
+  
