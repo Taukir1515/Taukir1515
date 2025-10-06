@@ -1466,26 +1466,26 @@ body.offcanvas {
 
 
 
-
-  /* =======================
+/* =======================
    Mobile Fixes (Contact Links)
    ======================= */
-
    @media (max-width: 768px) {
 
-    /* Only the link itself is clickable */
+    /* Ensure contact link items are clickable */
     .colorlib-feature.colorlib-feature-sm {
-      display: flex;
+      display: flex !important;
       align-items: center;
       margin-bottom: 20px;
-      width: auto; /* Container width should shrink to content */
-      pointer-events: none; /* Disable container clicks */
+      width: 100% !important;
+      pointer-events: auto !important;
+      z-index: 10;
     }
   
     .colorlib-feature.colorlib-feature-sm .colorlib-feature-link {
       display: flex !important;
+      width: 100% !important;
       align-items: center;
-      pointer-events: auto !important; /* Enable link clicks */
+      pointer-events: auto !important;
       text-decoration: none;
     }
   
@@ -1506,5 +1506,20 @@ body.offcanvas {
       margin-top: 0;
     }
   
+    /* Ensure the contact form inputs are full width */
+    #contact .form-control {
+      width: 100%;
+    }
+  
+    /* Adjust spacing for small screens */
+    #contact .col-md-5,
+    #contact .col-md-7 {
+      width: 100%;
+      padding: 0 15px;
+    }
+  
+    #contact .col-md-7 {
+      margin-top: 20px;
+    }
   }
   
