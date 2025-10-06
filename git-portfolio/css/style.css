@@ -1500,3 +1500,28 @@ body.offcanvas {
   align-items: center;
   margin-bottom: 20px;
 }
+
+
+
+@media (max-width: 768px) {
+  .colorlib-feature-link {
+    display: flex !important;
+    width: 100% !important;
+    pointer-events: auto !important;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .colorlib-feature {
+    pointer-events: auto !important;
+    margin-bottom: 15px; /* optional spacing */
+  }
+
+  .colorlib-feature .colorlib-icon i {
+    font-size: 28px; /* optional adjust for smaller screens */
+  }
+
+  .colorlib-feature .colorlib-text {
+    padding-left: 10px;
+  }
+}
