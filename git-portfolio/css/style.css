@@ -1472,39 +1472,20 @@ body.offcanvas {
    ======================= */
   
    @media (max-width: 768px) {
-
-    /* Only the link itself is clickable */
-    .colorlib-feature.colorlib-feature-sm {
-      display: flex;
+    .colorlib-feature-link {
+      display: inline-flex !important;  /* only wraps content, not full width */
       align-items: center;
-      margin-bottom: 20px;
-      width: auto; /* Container width should shrink to content */
-      pointer-events: none; /* Disable container clicks */
-    }
-  
-    .colorlib-feature.colorlib-feature-sm .colorlib-feature-link {
-      display: flex !important;
-      align-items: center;
-      pointer-events: auto !important; /* Enable link clicks */
+      pointer-events: auto !important;
       text-decoration: none;
+      color: inherit;
     }
   
-    .colorlib-feature.colorlib-feature-sm .colorlib-icon {
-      position: relative;
-      width: auto;
-      height: auto;
-      background: none;
+    .colorlib-feature {
+      pointer-events: none; /* disables click on empty spaces */
     }
   
-    .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-      font-size: 32px;
-      color: #2c98f0;
+    .colorlib-feature-link * {
+      pointer-events: auto; /* ensures inner icon and text are clickable */
     }
-  
-    .colorlib-feature.colorlib-feature-sm .colorlib-text {
-      padding-left: 10px;
-      margin-top: 0;
-    }
-  
   }
   
