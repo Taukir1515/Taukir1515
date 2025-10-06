@@ -1471,24 +1471,25 @@ body.offcanvas {
    Mobile Fixes (Contact Links)
    ======================= */
   
-   /* Contact section — desktop & mobile fixes */
+
+
+   /* Contact section links: icon + text clickable only */
 .colorlib-feature-link {
-  display: flex;
+  display: inline-flex;          /* wrap only icon + text */
   align-items: center;
   text-decoration: none;
   color: inherit;
-  position: relative;
   z-index: 5;
+  pointer-events: auto;          /* ensure clickable */
+}
+
+.colorlib-feature.colorlib-feature-sm {
+  display: flex;                 /* layout for icon + text */
+  align-items: center;
+  margin-bottom: 20px;
 }
 
 /* Icon styling */
-.colorlib-feature.colorlib-feature-sm .colorlib-icon {
-  position: relative;
-  width: auto;
-  height: auto;
-  background: none;
-}
-
 .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
   font-size: 32px;
   color: #2c98f0;
@@ -1500,28 +1501,15 @@ body.offcanvas {
   margin-top: 0;
 }
 
-/* Add spacing between items */
-.colorlib-feature.colorlib-feature-sm {
-  display: flex;
-  align-items: center;
-  margin-bottom: 20px;
-}
-
-/* Mobile adjustments */
+/* Mobile specific adjustments */
 @media (max-width: 768px) {
-  .colorlib-feature-link {
-    display: inline-flex !important;  /* only wraps icon + text */
-    align-items: center;
-    pointer-events: auto !important;
-    text-decoration: none;
-    color: inherit;
-  }
-
   .colorlib-feature {
-    pointer-events: none;  /* disables click on empty space */
+    display: block;             /* full width for stacking */
   }
 
-  .colorlib-feature-link * {
-    pointer-events: auto;   /* makes icon and text clickable */
+  .colorlib-feature-link {
+    display: inline-flex !important;  /* only icon + text clickable */
+    pointer-events: auto !important;
+    width: auto !important;          /* prevents full-width click */
   }
 }
