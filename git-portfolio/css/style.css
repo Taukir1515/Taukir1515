@@ -1467,49 +1467,59 @@ body.offcanvas {
 
 
 
-/* =======================
+  /* =======================
    Mobile Fixes (Contact Links)
    ======================= */
-  
-
-
-   /* Contact section links: icon + text clickable only */
-.colorlib-feature-link {
-  display: inline-flex;          /* wrap only icon + text */
-  align-items: center;
-  text-decoration: none;
-  color: inherit;
-  z-index: 5;
-  pointer-events: auto;          /* ensure clickable */
-}
-
-.colorlib-feature.colorlib-feature-sm {
-  display: flex;                 /* layout for icon + text */
-  align-items: center;
-  margin-bottom: 20px;
-}
-
-/* Icon styling */
-.colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-  font-size: 32px;
-  color: #2c98f0;
-}
-
-/* Text styling */
-.colorlib-feature.colorlib-feature-sm .colorlib-text {
-  padding-left: 10px;
-  margin-top: 0;
-}
-
-/* Mobile specific adjustments */
 @media (max-width: 768px) {
-  .colorlib-feature {
-    display: block;             /* full width for stacking */
+
+  /* Ensure contact link items are clickable */
+  .colorlib-feature.colorlib-feature-sm {
+    display: flex !important;
+    align-items: center;
+    margin-bottom: 20px;
+    width: 100% !important;
+    pointer-events: auto !important;
+    z-index: 10;
   }
 
-  .colorlib-feature-link {
-    display: inline-flex !important;  /* only icon + text clickable */
+  .colorlib-feature.colorlib-feature-sm .colorlib-feature-link {
+    display: flex !important;
+    width: 100% !important;
+    align-items: center;
     pointer-events: auto !important;
-    width: auto !important;          /* prevents full-width click */
+    text-decoration: none;
+  }
+
+  .colorlib-feature.colorlib-feature-sm .colorlib-icon {
+    position: relative;
+    width: auto;
+    height: auto;
+    background: none;
+  }
+
+  .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
+    font-size: 32px;
+    color: #2c98f0;
+  }
+
+  .colorlib-feature.colorlib-feature-sm .colorlib-text {
+    padding-left: 10px;
+    margin-top: 0;
+  }
+
+  /* Ensure the contact form inputs are full width */
+  #contact .form-control {
+    width: 100%;
+  }
+
+  /* Adjust spacing for small screens */
+  #contact .col-md-5,
+  #contact .col-md-7 {
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  #contact .col-md-7 {
+    margin-top: 20px;
   }
 }
