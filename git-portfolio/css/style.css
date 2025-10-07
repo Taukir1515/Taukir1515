@@ -1468,15 +1468,11 @@ body.offcanvas {
 @media (max-width: 768px) {
   .colorlib-feature-link {
     display: flex !important;
-    width: 100% !important;
+    width: 50% !important;
     pointer-events: auto !important;
     position: relative !important;
     z-index: 9999 !important;         /* bring links above overlapping elements */
-    -webkit-user-select: text !important;
-    -moz-user-select: text !important;
-    -ms-user-select: text !important;
     user-select: text !important;      /* allow copying the email/text */
-    -webkit-tap-highlight-color: rgba(0,0,0,0); 
     touch-action: manipulation;
   }
 
