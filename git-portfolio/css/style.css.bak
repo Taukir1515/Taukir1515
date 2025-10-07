@@ -1464,36 +1464,35 @@ body {
 
   
   /* Make contact items fully clickable on mobile */
-  @media (max-width: 768px) {
-    .colorlib-feature-link {
-      display: flex !important;
-      width: 100% !important;
-      pointer-events: auto !important;
-      position: relative !important;
-      z-index: 9999 !important;         /* bring links above overlapping elements */
-      -webkit-user-select: text !important;
-      -moz-user-select: text !important;
-      -ms-user-select: text !important;
-      user-select: text !important;      /* allow copying the email/text */
-      -webkit-tap-highlight-color: rgba(0,0,0,0); 
-      touch-action: manipulation;
-    }
-
-    .colorlib-feature {
-      pointer-events: auto !important;
-      position: relative;
-      z-index: 9998;
-    }
-
-    /* ensure contact column is above the form column on small screens */
-    #contact .col-md-5 {
-      position: relative;
-      z-index: 9999;
-    }
-    #contact .col-md-7 {
-      position: relative;
-      z-index: 1;
-    }
+@media (max-width: 768px) {
+  .colorlib-feature-link {
+    display: flex !important;
+    width: 100% !important;
+    pointer-events: auto !important;
+    position: relative !important;
+    z-index: 9999 !important;         /* bring links above overlapping elements */
+    -webkit-user-select: text !important;
+    -moz-user-select: text !important;
+    -ms-user-select: text !important;
+    user-select: text !important;      /* allow copying the email/text */
+    -webkit-tap-highlight-color: rgba(0,0,0,0); 
+    touch-action: manipulation;
   }
 
+  .colorlib-feature {
+    pointer-events: auto !important;
+    position: relative;
+    z-index: 9998;
+  }
+
+  /* ensure contact column is above the form column on small screens */
+  #contact .col-md-5 {
+    position: relative;
+    z-index: 9999;
+  }
+  #contact .col-md-7 {
+    position: relative;
+    z-index: 1;
+  }
 }
+  }
