@@ -21,40 +21,45 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
 <p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
 
-<!-- Wazuh -->
-<a href="https://wazuh.com/" target="_blank" rel="noreferrer">
-  <img src="./images/wazuh.png" alt="Wazuh" width="45" height="40"/>
-</a>
+  <!-- Wazuh -->
+  <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
+    <img src="./images/wazuh.png" alt="Wazuh" width="45" height="40"/>
+  </a>
 
 
   <!-- Nginx -->
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+    <img src="./images/nginx.webp" alt="nginx" width="40" height="40"/>
   </a>
 
-<!-- Postfix -->
-<a href="http://www.postfix.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Postfix_Logo.svg/1200px-Postfix_Logo.svg.png" alt="Postfix" width="50" height="40"/>
-</a>
+  <!-- Postfix -->
+  <a href="http://www.postfix.org/" target="_blank" rel="noreferrer">
+    <img src="./images/postfix.png" alt="Postfix" width="50" height="40"/>
+  </a>
 
-<!-- Nessus -->
-<a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
-  <img src="https://letslearnabout.net/wp-content/uploads/2023/08/Xrfr2ME.png" alt="Nessus" width="50" height="40"/>
-</a>
+  <!-- Nessus -->
+  <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
+    <img src="./images/nessus.png" alt="Nessus" width="50" height="40"/>
+  </a>
 
-<!-- OpenVAS -->
-<a href="https://www.openvas.org/" target="_blank" rel="noreferrer">
-  <img src="https://forum.greenbone.net/uploads/default/original/1X/85f2c3c10c2be8e4a9eb7a1d0cd34c5d66d57aba.png" alt="OpenVAS" width="40" height="40"/>
-</a>
+  <!-- OpenVAS -->
+  <a href="https://www.openvas.org/" target="_blank" rel="noreferrer">
+    <img src="./images/openvas.png" alt="OpenVAS" width="40" height="40"/>
+  </a>
 
-<!-- Acunetix -->
-<a href="https://www.acunetix.com/" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdhf3S-yz3qRYhbEd_Zhc1IlcWXpGRHsoE4O9OGgIKcejImfTxOELhU7-2uzW0171XCs&usqp=CAU" alt="Acunetix" width="40" height="40"/>
-</a>
+  <!-- Acunetix -->
+  <a href="https://www.acunetix.com/" target="_blank" rel="noreferrer">
+    <img src="./images/acunetix.png" alt="Acunetix" width="40" height="40"/>
+  </a>
+
+  <!-- Burp Suite -->
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="./images/burp_suite.png" alt="Burp_suite" width="40" height="40"/>
+  </a>
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="./images/git.png" alt="git" width="40" height="40"/>
   </a>
 
   <!-- Linux -->
