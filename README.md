@@ -64,7 +64,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="./images/Untitled design(24).png" alt="linux" width="40" height="40"/>
+    <img src="./images/linux.png" alt="linux" width="40" height="40"/>
   </a>
 
   <!-- Bash -->
