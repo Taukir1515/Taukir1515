@@ -94,7 +94,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="./images/Untitled design(27).png" alt="mysql" width="45" height="40"/>
+    <img src="./images/mysql.png" alt="mysql" width="45" height="40"/>
   </a>
 
 </p>
