@@ -79,7 +79,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="./images/Untitled design(21).png" alt="python" width="40" height="40"/>
+    <img src="./images/python.png" alt="python" width="45" height="40"/>
   </a>
 
   <!-- HTML -->
