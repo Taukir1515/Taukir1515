@@ -39,7 +39,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- Nessus -->
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
-    <img src="./images/Untitled design(9).png" alt="Nessus" width="45" height="40"/>
+    <img src="./images/Untitled design(9).png" alt="Nessus" width="40" height="40"/>
   </a>
 
   <!-- OpenVAS -->
