@@ -23,7 +23,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
 <!-- Wazuh -->
 <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
-  <img src="https://community.splunk.com/legacyfs/online/avatars/521026.jpg" alt="Wazuh" width="45" height="40"/>
+  <img src="./images/wazuh.png" alt="Wazuh" width="45" height="40"/>
 </a>
 
 
