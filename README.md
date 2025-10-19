@@ -74,7 +74,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- Windows PowerShell -->
   <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
-    <img src="./images/Untitled design(19).png" alt="powershell" width="40" height="40"/>
+    <img src="./images/Untitled design(20).png" alt="powershell" width="40" height="40"/>
   </a>
 
   <!-- Python -->
