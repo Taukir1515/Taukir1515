@@ -69,12 +69,12 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="./images/Untitled design(18).png" alt="bash" width="40" height="40"/>
+    <img src="./images/bash.png" alt="bash" width="40" height="40"/>
   </a>
 
   <!-- Windows PowerShell -->
   <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-plain.svg" alt="powershell" width="40" height="40"/>
+    <img src="./images/Untitled design(19).png" alt="powershell" width="40" height="40"/>
   </a>
 
   <!-- Python -->
