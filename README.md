@@ -89,7 +89,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- CSS -->
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="40"/>
+    <img src="./images/css.png" alt="css3" width="45" height="40"/>
   </a>
 
   <!-- MySQL -->
