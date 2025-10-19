@@ -44,37 +44,37 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- OpenVAS -->
   <a href="https://www.openvas.org/" target="_blank" rel="noreferrer">
-    <img src="./images/openvas.png" alt="OpenVAS" width="40" height="40"/>
+    <img src="./images/openvas.png" alt="OpenVAS" width="45" height="40"/>
   </a>
 
   <!-- Acunetix -->
   <a href="https://www.acunetix.com/" target="_blank" rel="noreferrer">
-    <img src="./images/acunetix.png" alt="Acunetix" width="40" height="40"/>
+    <img src="./images/acunetix.png" alt="Acunetix" width="45" height="40"/>
   </a>
 
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="./images/burp_suite.png" alt="Burp_suite" width="40" height="40"/>
+    <img src="./images/burp_suite.png" alt="Burp_suite" width="45" height="40"/>
   </a>
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="./images/git.png" alt="git" width="40" height="40"/>
+    <img src="./images/git.png" alt="git" width="45" height="40"/>
   </a>
 
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="./images/linux.png" alt="linux" width="40" height="40"/>
+    <img src="./images/linux.png" alt="linux" width="45" height="40"/>
   </a>
 
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="./images/bash.png" alt="bash" width="40" height="40"/>
+    <img src="./images/bash.png" alt="bash" width="45" height="40"/>
   </a>
 
   <!-- Windows PowerShell -->
   <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
-    <img src="./images/powershell.png" alt="powershell" width="40" height="40"/>
+    <img src="./images/powershell.png" alt="powershell" width="45" height="40"/>
   </a>
 
   <!-- Python -->
@@ -84,17 +84,17 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="./images/html.png" alt="html5" width="40" height="40"/>
+    <img src="./images/html.png" alt="html5" width="45" height="40"/>
   </a>
 
   <!-- CSS -->
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="40"/>
   </a>
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="40"/>
   </a>
 
 </p>
