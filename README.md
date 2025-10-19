@@ -54,7 +54,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="./images/burp_suite.png" alt="Burp_suite" width="40" height="40"/>
+    <img src="./images/Untitled design(10).png" alt="Burp_suite" width="40" height="40"/>
   </a>
 
   <!-- Git -->
