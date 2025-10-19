@@ -29,7 +29,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- Nginx -->
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="./images/nginx.png" alt="nginx" width="45" height="50"/>
+    <img src="./images/nginx.png" alt="nginx" width="45" height="70"/>
   </a>
 
   <!-- Postfix -->
