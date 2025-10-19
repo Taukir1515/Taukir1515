@@ -34,7 +34,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
   <!-- Postfix -->
   <a href="http://www.postfix.org/" target="_blank" rel="noreferrer">
-    <img src="./images/Untitled design(7).png" alt="Postfix" width="45" height="40"/>
+    <img src="./images/postfix.png" alt="Postfix" width="45" height="40"/>
   </a>
 
   <!-- Nessus -->
