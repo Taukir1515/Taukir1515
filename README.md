@@ -109,7 +109,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Taukir1515)
 - 💬 &nbsp; Ask me about anything tech related, I will be happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://linkedin.com/in/taukirrahman)
-- 📝 &nbsp; Check out my [resume]()
+- 📝 &nbsp; Check out my [resume](./resume.pdf)
 - 🎬 &nbsp; I am just a fan of Marvel Movies
 
 <br>
