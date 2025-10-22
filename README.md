@@ -106,7 +106,7 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 
 - 🔭 &nbsp; I’m currently working on **Wazuh Implementation for a complete SIEM solution**
 - 🌱 &nbsp; I’m currently learning Windows Powershell Core   
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Taukir1515)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Taukir1515/SIEM-Security-Monitoring)
 - 💬 &nbsp; Ask me about anything tech related, I will be happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://linkedin.com/in/taukirrahman)
 - 📝 &nbsp; Check out my [resume](./resume.pdf)
