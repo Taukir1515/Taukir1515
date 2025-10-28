@@ -2,7 +2,7 @@
 
 ### 👋 About Me  
 
-I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a main focus on **Wazuh integrations**. I also have experience in penetration testing 🕵️, Linux server administration 🐧, web servers (Nginx 🌐), and mail servers (Postfix 📧). I enjoy experimenting with open-source technologies 🔐, automating tasks ⚡, and continuously learning new ways to strengthen security systems.
+I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a main focus on **Wazuh integrations**. I also have experience in Penetration Testing 🕵️, Linux Server Administration 🐧, Web Server (Nginx 🌐), and Mail Server (Postfix 📧). I enjoy experimenting with open-source technologies 🔐, automating tasks ⚡, and continuously learning new ways to strengthen security systems.
 
 ### 🤝 Connect with me
 
@@ -107,10 +107,12 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 - 🔭 &nbsp; I’m currently working on **Wazuh Implementation for a complete SIEM solution**
 - 🌱 &nbsp; I’m currently learning Windows Powershell Core   
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Taukir1515/SIEM-Security-Monitoring)
-- 💬 &nbsp; Ask me about anything tech related, I will be happy to help
+- 👨🏻‍💻 &nbsp; View my [portfolio page](https://pentest-taukir.github.io/taukir1515/)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://linkedin.com/in/taukirrahman)
-<!-- - 📝 &nbsp; Check out my [resume](./resume.pdf) -->
+- 💬 &nbsp; Ask me about anything tech related, I will be happy to help
 - 🎬 &nbsp; I am just a fan of Marvel Movies
+<!-- - 📝 &nbsp; Check out my [resume](./resume.pdf) -->
+
 
 <br>
 
