@@ -107,10 +107,10 @@ I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a mai
 - 🔭 &nbsp; I’m currently working on **Wazuh Implementation for a complete SIEM solution**
 - 🌱 &nbsp; I’m currently learning Windows Powershell Core   
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Taukir1515/SIEM-Security-Monitoring)
-- 👨🏻‍💻 &nbsp; View my [portfolio page](https://pentest-taukir.github.io/taukir1515/)
+- 👨🏻‍💻 &nbsp; Visit my [Portfolio Page](https://pentest-taukir.github.io/taukir1515/)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://linkedin.com/in/taukirrahman)
 - 💬 &nbsp; Ask me about anything tech related, I will be happy to help
-- 🎬 &nbsp; I am just a fan of Marvel Movies
+- 🎬 &nbsp; I am just a fan of Marvel Universe
 <!-- - 📝 &nbsp; Check out my [resume](./resume.pdf) -->
 
 
