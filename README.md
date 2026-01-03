@@ -2,7 +2,9 @@
 
 ### 👋 About Me  
 
-I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a main focus on **Wazuh integrations**. I also have experience in Penetration Testing 🕵️, Linux Server Administration 🐧, Web Server (Nginx 🌐), and Mail Server (Postfix 📧). I enjoy experimenting with open-source technologies 🔐, automating tasks ⚡, and continuously learning new ways to strengthen security systems.
+I am a cybersecurity enthusiast passionate about SIEM solutions 🔎, with a strong focus on Wazuh integrations and Security Operations Center (SOC) analysis. I have hands-on experience in monitoring, analyzing, and responding to security alerts, investigating suspicious activities, and supporting incident response workflows.
+
+In addition, I have experience in Penetration Testing 🕵️, Linux Server Administration 🐧, Web Server management (Nginx 🌐), and Mail Server administration (Postfix 📧). I enjoy experimenting with open-source technologies 🔐, automating tasks ⚡, and continuously learning new techniques to strengthen detection, response, and overall security posture.
 
 ### 🤝 Connect with me
 
